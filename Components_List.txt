@@ -1,0 +1,5 @@
+1. Arduino Uno
+2. ACS712 Current Sensor
+3. L298N Motor Driver
+4. Stepper/DC Motor
+5. Resistors, Breadboard, Wires
